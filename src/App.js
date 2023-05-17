@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h1>Hello from V2</h1>
         <p>
           My first <code>Amplify</code> React App.
         </p>
